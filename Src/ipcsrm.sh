@@ -1,0 +1,5 @@
+#!/bin/bash
+ipcrm -Q 0x3039
+ipcrm -Q 0x04d2
+ipcrm -M 0x0b
+ipcrm -M 0x16
